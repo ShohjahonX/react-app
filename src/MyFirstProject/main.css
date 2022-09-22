@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+
+.my-fp{
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+    cursor: pointer;
+}
+
+.my-fp h1:nth-child(2){
+    font-size: 50px;
+    color: aqua;
+    padding-top: 150px;
+}
+
+::selection{
+    color: red;
+    background-color: rgba(7, 222, 250, 0.384);
+}

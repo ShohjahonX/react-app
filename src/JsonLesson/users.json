@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Shohjahon Xoshimajnov",
+        "age": 16,
+        "isStudent": true,
+        "country": "America",
+        "phone": 942774846
+    },
+    {
+        "name": "Baxriddin Xakimovich",
+        "age": 20,
+        "isStudent": false,
+        "country": "Malasia",
+        "phone": 995120060
+    },
+    {
+        "name": "Shohakbar Xoshimajnov",
+        "age": 14,
+        "isStudent": true,
+        "country": "Uzbekistan",
+        "phone": 885075070
+    }
+]

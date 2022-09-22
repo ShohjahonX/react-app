@@ -1,0 +1,14 @@
+.text-one{
+    color: blue;
+    text-align: center;
+    background-color: rgba(0, 128, 0, 0.39);
+    width: 200px;
+    margin: 0 auto;
+}
+
+.text-two{
+    color: brown;
+    text-align: center;
+}
+
+
